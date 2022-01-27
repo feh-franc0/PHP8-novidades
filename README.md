@@ -1,2 +1,2 @@
-# php7-para-php8-o-que-mudou
+# PHP8 o que há de novo
 veremos as mudanças que ocorreram na atualização do php7 para o php8
